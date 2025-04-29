@@ -4,4 +4,5 @@ public class Actor {
 
     String nombre;
     int edad;
+    String apellidos;
 }
